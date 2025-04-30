@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>志満麻樹子ピアノ教室｜春日井市高蔵寺ニュータウン石尾台</title>
+  <meta name="description" content="愛知県春日井市高蔵寺ニュータウン石尾台の個人ピアノ教室。初心者から音大受験まで対応。無料体験レッスン受付中。">
+  <meta name="keywords" content="春日井市, ピアノ教室, 高蔵寺, 石尾台, 愛知県, 志満麻樹子, 個人レッスン, 音大受験, 幼児, シニア, コンクール, YouTube, 無料体験">
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f8f8f8;
+      color: #333;
+    }
+    header, footer {
+      background: #2c3e50;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    .container {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 1rem;
+      background: white;
+      border-radius: 8px;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+    .video {
+      text-align: center;
+      margin: 2rem 0;
+    }
+    iframe {
+      max-width: 100%;
+      height: 315px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>志満麻樹子ピアノ教室 🎹</h1>
+    <p>春日井市高蔵寺ニュータウン石尾台｜初心者〜音大受験対応</p>
+  </header>
+
+  <div class="container">
+    <h2>🎵 一人ひとりに寄り添った丁寧な個人レッスン</h2>
+    <p>
+      志満麻樹子ピアノ教室では、愛知県立芸術大学卒・菊里高校音楽科出身の講師が、
+      25年の豊富な経験を活かし、幼児からシニアまで幅広く指導しています。
+    </p>
+    <ul>
+      <li>初心者〜音高・音大受験まで対応</li>
+      <li>進度・頻度に応じた柔軟なレッスン（月謝4000円〜）</li>
+      <li>無料体験レッスン実施中！</li>
+      <li>新設：コンクール入賞を目指す特別コース（指導回数・料金は要相談）</li>
+    </ul>
+
+    <h2>📺 YouTube演奏動画</h2>
+    <div class="video">
+      <iframe src="https://www.youtube.com/embed?listType=user_uploads&list=onpudding6174" frameborder="0" allowfullscreen></iframe>
+      <p><a href="https://www.youtube.com/@onpudding6174" target="_blank">▶ チャンネルはこちら</a></p>
+    </div>
+
+    <h2>📬 お問い合わせ</h2>
+    <p>ご質問・無料体験レッスンの申込みは下記メールまでご連絡ください。</p>
+    <p><strong>onpurin1203@gmail.com</strong></p>
+
+    <h2>📍 教室所在地</h2>
+    <p>春日井市高蔵寺ニュータウン石尾台（詳細はお問い合わせください）</p>
+    <p><a href="https://www.google.com/maps?q=春日井市高蔵寺ニュータウン石尾台" target="_blank">▶ Googleマップで見る</a></p>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 志満麻樹子ピアノ教室. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
